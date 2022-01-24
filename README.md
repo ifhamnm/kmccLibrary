@@ -2,7 +2,7 @@
 
 
 # Functions of this Library
-It allows user to manage Members, Categories, Books and Issueing Books.
+It allows user to manage Members, Categories, Books and Issue Books.
 
 
 # Setup database
