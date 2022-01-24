@@ -1,0 +1,3 @@
+/* jquery.kmccline @VERSION@ - http://omnipotent.net/jquery.kmccline/ 
+** Licensed under the New BSD License - see above site for details */
+
