@@ -14,5 +14,4 @@ Update the database name, username, and password in the file application.propert
 # Login
 for login you may use 
 - username as 'admin' and password as 'admin'
-- username as 'librarian' and password as 'librarian'
 
