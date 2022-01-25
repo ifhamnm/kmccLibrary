@@ -3,7 +3,7 @@
 - Frontend - Java (Version 8)
 
 # Functions of this Library
-It allows user to manage Members, Categories, Books and Issue Books.
+It allows user to manage Members, Categories, Books, Issue Books and Return Books.
 
 
 # Setup database
