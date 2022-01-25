@@ -1,5 +1,6 @@
-# E-library Management System developed in Spring Boot and Java 8
-
+# E-library Management System developed in Spring Boot and Java
+- Backend - Spring Boot
+- Frontend - Java (Version 8)
 
 # Functions of this Library
 It allows user to manage Members, Categories, Books and Issue Books.
